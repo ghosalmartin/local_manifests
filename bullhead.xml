@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/lge/bullhead" name="ghosalmartin/android_device_lge_bullhead" remote="github" revision="hybris-aosp-6.0.0_r26" groups="device,bullhead" />
+    <project path="kernel/msm" name="ghosalmartin/android_kernel_lge_bullhead" remote="github" revision="hybris-aosp-6.0.0_r26" groups="device,bullhead" />
+    <project path="rpm/" name="ghosalmartin/droid-hal-bullhead" remote="github" revision="master" />
+    <project path="hybris/droid-configs" name="ghosalmartin/droid-config-bullhead" remote="github" revision="master" />
+    <project path="hybris/droid-hal-version-bullhead" name="ghosalmartin/droid-hal-version-bullhead" remote="github" revision="master" />
+</manifest>
